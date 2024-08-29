@@ -1,0 +1,43 @@
+[0.645s] Invoking command in '/home/tarun/lmas_ws/src/follow_waypoints': PYTHONPATH=/home/tarun/lmas_ws/build/follow_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/follow_waypoints build --build-base /home/tarun/lmas_ws/build/follow_waypoints/build install --record /home/tarun/lmas_ws/build/follow_waypoints/install.log --single-version-externally-managed install_data
+[0.813s] running egg_info
+[0.814s] creating ../../build/follow_waypoints/follow_waypoints.egg-info
+[0.814s] writing ../../build/follow_waypoints/follow_waypoints.egg-info/PKG-INFO
+[0.814s] writing dependency_links to ../../build/follow_waypoints/follow_waypoints.egg-info/dependency_links.txt
+[0.814s] writing entry points to ../../build/follow_waypoints/follow_waypoints.egg-info/entry_points.txt
+[0.814s] writing requirements to ../../build/follow_waypoints/follow_waypoints.egg-info/requires.txt
+[0.814s] writing top-level names to ../../build/follow_waypoints/follow_waypoints.egg-info/top_level.txt
+[0.814s] writing manifest file '../../build/follow_waypoints/follow_waypoints.egg-info/SOURCES.txt'
+[0.815s] reading manifest file '../../build/follow_waypoints/follow_waypoints.egg-info/SOURCES.txt'
+[0.816s] writing manifest file '../../build/follow_waypoints/follow_waypoints.egg-info/SOURCES.txt'
+[0.816s] running build
+[0.816s] running build_py
+[0.816s] creating /home/tarun/lmas_ws/build/follow_waypoints/build
+[0.816s] creating /home/tarun/lmas_ws/build/follow_waypoints/build/lib
+[0.816s] creating /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints
+[0.817s] copying follow_waypoints/follow_waypoints.py -> /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints
+[0.817s] copying follow_waypoints/go_to_points.py -> /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints
+[0.817s] copying follow_waypoints/__init__.py -> /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints
+[0.817s] running install
+[0.817s] running install_lib
+[0.817s] creating /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints
+[0.818s] copying /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints/follow_waypoints.py -> /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints
+[0.818s] copying /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints/go_to_points.py -> /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints
+[0.818s] copying /home/tarun/lmas_ws/build/follow_waypoints/build/lib/follow_waypoints/__init__.py -> /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints
+[0.818s] byte-compiling /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints/follow_waypoints.py to follow_waypoints.cpython-310.pyc
+[0.819s] byte-compiling /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints/go_to_points.py to go_to_points.cpython-310.pyc
+[0.819s] byte-compiling /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints/__init__.py to __init__.cpython-310.pyc
+[0.820s] running install_data
+[0.820s] creating /home/tarun/lmas_ws/install/follow_waypoints/share/ament_index
+[0.820s] creating /home/tarun/lmas_ws/install/follow_waypoints/share/ament_index/resource_index
+[0.820s] creating /home/tarun/lmas_ws/install/follow_waypoints/share/ament_index/resource_index/packages
+[0.820s] copying resource/follow_waypoints -> /home/tarun/lmas_ws/install/follow_waypoints/share/ament_index/resource_index/packages
+[0.820s] copying package.xml -> /home/tarun/lmas_ws/install/follow_waypoints/share/follow_waypoints
+[0.820s] creating /home/tarun/lmas_ws/install/follow_waypoints/share/follow_waypoints/config
+[0.820s] copying config/follow_waypoints.yaml -> /home/tarun/lmas_ws/install/follow_waypoints/share/follow_waypoints/config
+[0.820s] running install_egg_info
+[0.822s] Copying ../../build/follow_waypoints/follow_waypoints.egg-info to /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow_waypoints-0.0.0-py3.10.egg-info
+[0.822s] running install_scripts
+[0.838s] Installing follow_waypoints_exe script to /home/tarun/lmas_ws/install/follow_waypoints/lib/follow_waypoints
+[0.838s] Installing go_to_points_exe script to /home/tarun/lmas_ws/install/follow_waypoints/lib/follow_waypoints
+[0.838s] writing list of installed files to '/home/tarun/lmas_ws/build/follow_waypoints/install.log'
+[0.858s] Invoked command in '/home/tarun/lmas_ws/src/follow_waypoints' returned '0': PYTHONPATH=/home/tarun/lmas_ws/build/follow_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/follow_waypoints build --build-base /home/tarun/lmas_ws/build/follow_waypoints/build install --record /home/tarun/lmas_ws/build/follow_waypoints/install.log --single-version-externally-managed install_data

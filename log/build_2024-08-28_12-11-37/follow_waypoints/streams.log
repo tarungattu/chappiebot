@@ -1,0 +1,20 @@
+[0.682s] Invoking command in '/home/tarun/lmas_ws/build/follow_waypoints': PYTHONPATH=/home/tarun/lmas_ws/build/follow_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tarun/lmas_ws/build/follow_waypoints/build --no-deps symlink_data
+[0.880s] running develop
+[0.881s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.881s]   warnings.warn(
+[1.008s] running egg_info
+[1.008s] writing follow_waypoints.egg-info/PKG-INFO
+[1.008s] writing dependency_links to follow_waypoints.egg-info/dependency_links.txt
+[1.008s] writing entry points to follow_waypoints.egg-info/entry_points.txt
+[1.008s] writing requirements to follow_waypoints.egg-info/requires.txt
+[1.008s] writing top-level names to follow_waypoints.egg-info/top_level.txt
+[1.010s] reading manifest file 'follow_waypoints.egg-info/SOURCES.txt'
+[1.010s] writing manifest file 'follow_waypoints.egg-info/SOURCES.txt'
+[1.011s] running build_ext
+[1.011s] Creating /home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages/follow-waypoints.egg-link (link to .)
+[1.012s] Installing follow_waypoints_exe script to /home/tarun/lmas_ws/install/follow_waypoints/lib/follow_waypoints
+[1.012s] Installing go_to_points_exe script to /home/tarun/lmas_ws/install/follow_waypoints/lib/follow_waypoints
+[1.012s] 
+[1.013s] Installed /home/tarun/lmas_ws/build/follow_waypoints
+[1.013s] running symlink_data
+[1.040s] Invoked command in '/home/tarun/lmas_ws/build/follow_waypoints' returned '0': PYTHONPATH=/home/tarun/lmas_ws/build/follow_waypoints/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tarun/lmas_ws/install/follow_waypoints/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/tarun/lmas_ws/build/follow_waypoints/build --no-deps symlink_data
